@@ -1,0 +1,7 @@
+[package]
+name = "awesome"
+version = "0.1.0"
+authors = ["lila"]
+
+[dependencies]
+rand = "*"
